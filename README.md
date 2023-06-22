@@ -1,5 +1,3 @@
-##42-philosophers
-
 ## 42-philosophers
 
 O problema do jantar dos filósofos é um problema clássico, originalmente formulado por E.W. Dijkstra, para demonstrar problemas em ciência da computação e a programação de processos concorrentes ou paralelos.
