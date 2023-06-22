@@ -1,4 +1,4 @@
-## 42-philosophers
+# 42-philosophers
 
 O problema do jantar dos filósofos é um problema clássico, originalmente formulado por E.W. Dijkstra, para demonstrar problemas em ciência da computação e a programação de processos concorrentes ou paralelos.
 
@@ -38,5 +38,5 @@ O programa recebe pelo menos 5 argumentos. O primeiro parâmetro é o arquivo bi
 ./philo 4 800 300 300 6
 ```
 #### 6) Será printado:
-| `timestamp_in_ms` | `number of philosopher` | `action` | 
+| `timestamp_in_ms` | `number of philosopher` | `action` | <br>
 ![alt text](img/threads.png)
