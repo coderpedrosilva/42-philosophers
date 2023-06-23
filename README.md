@@ -3,11 +3,13 @@
 O problema do jantar dos filósofos é um problema clássico, originalmente formulado por E.W. Dijkstra, para demonstrar problemas em ciência da computação e a programação de processos concorrentes ou paralelos.
 
 ![alt text](img/philos.png)
-
+  
 Vários filósofos estão sentados em torno de uma mesa redonda com uma grande tigela de espaguete no centro. Eles alternam entre comer, pensar e dormir. Enquanto estão comendo, não estão pensando nem dormindo; enquanto estão pensando, não estão comendo nem dormindo; e, enquanto estão dormindo, não estão comendo nem pensando. Cada filósofo tem um garfo à sua disposição para comer, um na mão direita e outro na mão esquerda. Quando terminam de comer, colocam os garfos de volta na mesa e começam a dormir. Ao acordarem, retomam o processo de pensamento. A simulação termina quando um filósofo morre de fome. É essencial que todos os filósofos se alimentem adequadamente e evitem morrer. Eles não se comunicam entre si e não têm conhecimento da iminência da morte de outro filósofo. O objetivo é garantir que todos os filósofos sejam alimentados e que a morte seja evitada.
 
 ## Fluxograma das funções
+
 ![alt text](img/fluxograma.png)
+
 ## Como compilar e executar o projeto
 
 #### 1) Copie esse repositório para sua máquina
